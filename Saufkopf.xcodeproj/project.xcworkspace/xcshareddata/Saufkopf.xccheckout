@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F3AAECC-57F7-418C-AD3D-35B5F7823F4E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Saufkopf</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>80C1AB20D4249F0BE449B01B8B087AE2D9706D13</key>
+		<string>https://bitbucket.org/Schascha/suffkopp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Saufkopf.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>80C1AB20D4249F0BE449B01B8B087AE2D9706D13</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/Schascha/suffkopp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80C1AB20D4249F0BE449B01B8B087AE2D9706D13</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80C1AB20D4249F0BE449B01B8B087AE2D9706D13</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Saufkopf</string>
+		</dict>
+	</array>
+</dict>
+</plist>
